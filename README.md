@@ -11,3 +11,11 @@ Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
+
+//----------Scomponiamo il problema----------
+ //- Definiamo la variabile contatore
+ //- Aggiungiamo istruzione di fine ciclo 
+ //- Incrementiamo variabile contatore
+ //- Controlliamo se i è multiplo di 3 e 5
+ //- Controlliamo se i è solo multiplo di 3 
+ //- Controlliamo se i è solo multiplo di 5
